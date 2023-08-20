@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "เกี้ยวซ่า",
+        "price": 100,
+        "image": "ev84lljj.png"
+    },
+    {
+        "id": 2,
+        "name": "ราเม็ง",
+        "price": 150,
+        "image": "dsifuw1h.png"
+    },
+    {
+        "id": 3,
+        "name": "ข้าวหน้าคุโรบุตะ",
+        "price": 180,
+        "image": "99lb7g0f.png"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "ทาโกะยากิ",
+        "price": 190,
+        "image": "arxzylg7.png"
+    },
+    {
+        "id": 5,
+        "name": "กุ้งเท็มปุระ",
+        "price": 250,
+        "image": "q8vowxpa.png"
+    },
+    {
+        "id": 6,
+        "name": "ข้าวหน้าปลาไหล",
+        "price": 350,
+        "image": "3plwfdj7.png"
+    }
+]
